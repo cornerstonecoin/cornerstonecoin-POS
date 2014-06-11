@@ -1,7 +1,7 @@
 
 CornerstoneCoin - CCX
 
-CornerstoneCoin is an energy saving coin generating most of its coins through PoS blocks. It distributes its initial coins through 18 days of evenly distributed PoW mining. No block halving occurs during the initial distribution phase, thus ensuring a fair distribution. After the initial distribution, the PoW block payout will be dropped to 15 coins per block.
+CornerstoneCoin is an energy saving coin generating most of its coins through PoS blocks. It distributes its initial coins through 18 days of evenly distributed PoW mining. No block halving occurs during the initial distribution phase, thus ensuring a fair distribution. After the initial distribution, the PoW block payout will be dropped to 0.
 
 CornerstoneCoin also adopts a variable PoS rate with the following annual interest rate:
 - Year 1: 20% 
